@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15539590.svg)](https://doi.org/10.5281/zenodo.15539590)
+
 # Web3 & Public Art: The Next Generation
 
 This presentation explores the intersection of Web3 technologies and public art, featuring insights from industry leaders.
